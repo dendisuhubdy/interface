@@ -1,7 +1,7 @@
 {
-  "name": "Bitwyre's Frontend Interface",
+  "name": "Interface",
   "version": "0.1.0",
-  "homepage" : "http://bitwyre.com",
+  "homepage": "http://bitwyre.com",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
