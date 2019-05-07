@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logo.jpg';
 import './App.css';
 
 function App() {
@@ -19,6 +19,14 @@ function App() {
           rel="noopener noreferrer"
         >
           Download Here
+        </a>
+        <a
+          className="App-link"
+          href="https://bitwyre.com/exchange"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Access Exchange (Alpha Release)
         </a>
       </header>
     </div>
