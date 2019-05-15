@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.jpg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://bitwyre.com/exchange"
+          href="https://exchange.bitwyre.com"
           target="_blank"
           rel="noopener noreferrer"
         >
